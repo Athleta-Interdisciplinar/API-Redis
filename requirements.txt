@@ -1,2 +1,2 @@
 Flask
-covarage
+coverage
