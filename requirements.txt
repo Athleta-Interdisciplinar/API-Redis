@@ -1,5 +1,6 @@
 Flask
 coverage
 redis
-ssl
 random
+flask_mail
+datetime
