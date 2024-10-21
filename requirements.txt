@@ -1,6 +1,4 @@
 Flask
 coverage
 redis
-random
 flask_mail
-datetime
